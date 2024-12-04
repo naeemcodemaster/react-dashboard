@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* In your global CSS file */
+body{
+  overflow-x: hidden;
+}
+.bg-conical-green {
+    background-image: conic-gradient(#0e8b63 110deg, #062f22 30deg, #0f8d65 350deg);
+
+    
+  }
+  .bg-conical-blue {
+    background-image: conic-gradient(#373cd5 110deg, #252e99 30deg, #353bcf 350deg);
+
+  }
+  
